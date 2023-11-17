@@ -1,0 +1,282 @@
+,Unique_Locations,categories
+0,Abbigere,"[array([' Devarachikkanahalli', '1st Block Jayanagar',
+       '1st Phase JP Nagar', '2nd Stage Nagarbhavi', '5th Phase JP Nagar',
+       '6th Phase JP Nagar', '7th Phase JP Nagar', '8th Phase JP Nagar',
+       '9th Phase JP Nagar', 'AECS Layout', 'Abbigere', 'Akshaya Nagar',
+       'Ambalipura', 'Ambedkar Nagar', 'Amruthahalli', 'Anandapura',
+       'Ananth Nagar', 'Anekal', 'Ardendale', 'Arekere', 'Attibele',
+       'BEML Layout', 'BTM 2nd Stage', 'BTM Layout', 'Babusapalaya',
+       'Badavala Nagar', 'Balagere', 'Banashankari',
+       'Banashankari Stage II', 'Banashankari Stage III',
+       'Banashankari Stage V', 'Banashankari Stage VI', 'Banaswadi',
+       'Bannerghatta', 'Bannerghatta Road', 'Basavangudi',
+       'Basaveshwara Nagar', 'Battarahalli', 'Begur', 'Begur Road',
+       'Bellandur', 'Benson Town', 'Bhoganhalli', 'Billekahalli',
+       'Binny Pete', 'Bisuvanahalli', 'Bommanahalli', 'Bommasandra',
+       'Bommasandra Industrial Area', 'Bommenahalli', 'Brookefield',
+       'Budigere', 'CV Raman Nagar', 'Chamrajpet', 'Chandapura',
+       'Channasandra', 'Chikka Tirupathi', 'Chikkabanavar',
+       'Chikkalasandra', 'Choodasandra', 'Cooke Town', 'Cunningham Road',
+       'Dairy Circle', 'Dasanapura', 'Dasarahalli', 'Devanahalli',
+       'Dodda Nekkundi', 'Doddakallasandra', 'Doddathoguru', 'Domlur',
+       'EPIP Zone', 'Electronic City', 'Electronic City Phase II',
+       'Electronics City Phase 1', 'Frazer Town', 'Garudachar Palya',
+       'Giri Nagar', 'Gollarapalya Hosahalli', 'Gottigere',
+       'Green Glen Layout', 'Gubbalala', 'Gunjur', 'HBR Layout',
+       'HRBR Layout', 'HSR Layout', 'Haralur Road', 'Harlur', 'Hebbal',
+       'Hebbal Kempapura', 'Hegde Nagar', 'Hennur', 'Hennur Road',
+       'Hoodi', 'Horamavu Agara', 'Horamavu Banaswadi', 'Hormavu',
+       'Hosa Road', 'Hosakerehalli', 'Hoskote', 'Hosur Road', 'Hulimavu',
+       'ISRO Layout', 'Iblur Village', 'Indira Nagar', 'JP Nagar',
+       'Jakkur', 'Jalahalli', 'Jalahalli East', 'Jigani',
+       'Judicial Layout', 'KR Puram', 'Kadubeesanahalli', 'Kadugodi',
+       'Kaggadasapura', 'Kaggalipura', 'Kaikondrahalli',
+       'Kalena Agrahara', 'Kalyan nagar', 'Kambipura', 'Kammanahalli',
+       'Kammasandra', 'Kanakapura', 'Kanakpura Road', 'Kannamangala',
+       'Karuna Nagar', 'Kasavanhalli', 'Kasturi Nagar', 'Kathriguppe',
+       'Kaval Byrasandra', 'Kenchenahalli', 'Kengeri',
+       'Kengeri Satellite Town', 'Kereguddadahalli', 'Kodichikkanahalli',
+       'Kodigehaali', 'Kodigehalli', 'Kodihalli', 'Kogilu', 'Konanakunte',
+       'Koramangala', 'Kothannur', 'Kothanur', 'Kudlu', 'Kudlu Gate',
+       'Kumaraswami Layout', 'Kundalahalli', 'Laggere',
+       'Lakshminarayana Pura', 'Lingadheeranahalli', 'Magadi Road',
+       'Mahadevpura', 'Mahalakshmi Layout', 'Mallasandra', 'Malleshpalya',
+       'Malleshwaram', 'Marathahalli', 'Margondanahalli', 'Munnekollal',
+       'Murugeshpalya', 'Mysore Road', 'NGR Layout', 'NRI Layout',
+       'Nagarbhavi', 'Nagasandra', 'Nagavara', 'Nagavarapalya',
+       'Narayanapura', 'OMBR Layout', 'Old Airport Road',
+       'Old Madras Road', 'Padmanabhanagar', 'Pai Layout', 'Panathur',
+       'Parappana Agrahara', 'Pattandur Agrahara', 'Poorna Pragna Layout',
+       'Prithvi Layout', 'R.T. Nagar', 'Rachenahalli',
+       'Raja Rajeshwari Nagar', 'Rajaji Nagar', 'Ramagondanahalli',
+       'Ramamurthy Nagar', 'Rayasandra', 'Sahakara Nagar', 'Sanjay nagar',
+       'Sarakki Nagar', 'Sarjapur', 'Sarjapur  Road',
+       'Sarjapura - Attibele Road', 'Sector 2 HSR Layout', 'Seegehalli',
+       'Shampura', 'Shivaji Nagar', 'Singasandra', 'Somasundara Palya',
+       'Sonnenahalli', 'Subramanyapura', 'TC Palaya', 'Talaghattapura',
+       'Thanisandra', 'Thigalarapalya', 'Thubarahalli', 'Tumkur Road',
+       'Ulsoor', 'Uttarahalli', 'Varthur', 'Varthur Road', 'Vasanthapura',
+       'Vidyaranyapura', 'Vijayanagar', 'Vishveshwarya Layout',
+       'Vishwapriya Layout', 'Vittasandra', 'Whitefield',
+       'Yelachenahalli', 'Yelahanka', 'Yelahanka New Town', 'Yelenahalli',
+       'Yeshwanthpur', 'other'], dtype=object)]"
+1,Mallasandra,0
+2,Sector 2 HSR Layout,0
+3,Hoodi,0
+4,other,0
+5,Brookefield,0
+6,Kengeri,0
+7,Kumaraswami Layout,0
+8,Subramanyapura,0
+9,Kanakapura,0
+10,Thanisandra,0
+11,Koramangala,0
+12,Hormavu,0
+13,Gollarapalya Hosahalli,0
+14,Talaghattapura,0
+15,Bellandur,0
+16,Bommasandra,0
+17,Electronic City Phase II,0
+18,Yelahanka,0
+19,Hebbal,0
+20,Banashankari Stage II,0
+21,Vittasandra,0
+22,Chikkalasandra,0
+23,Ramagondanahalli,0
+24,Rachenahalli,0
+25,HBR Layout,0
+26,Ananth Nagar,0
+27,Hosa Road,0
+28,Uttarahalli,0
+29,Kaikondrahalli,0
+30,Yeshwanthpur,0
+31,Sarjapura - Attibele Road,0
+32,Electronics City Phase 1,0
+33,Rajaji Nagar,0
+34,Nagarbhavi,0
+35,Basaveshwara Nagar,0
+36,Sarjapur,0
+37,Yelachenahalli,0
+38,Begur Road,0
+39,KR Puram,0
+40,Vishwapriya Layout,0
+41,Sarjapur  Road,0
+42,Kanakpura Road,0
+43,Kothanur,0
+44,Whitefield,0
+45,Hulimavu,0
+46,Doddakallasandra,0
+47,Horamavu Banaswadi,0
+48,Gottigere,0
+49,Harlur,0
+50,Vishveshwarya Layout,0
+51,Horamavu Agara,0
+52,Judicial Layout,0
+53,7th Phase JP Nagar,0
+54,Kasavanhalli,0
+55,Haralur Road,0
+56,Dairy Circle,0
+57,Doddathoguru,0
+58,Magadi Road,0
+59,Marathahalli,0
+60,Ramamurthy Nagar,0
+61,Kaval Byrasandra,0
+62,Electronic City,0
+63,Kaggadasapura,0
+64,Kasturi Nagar,0
+65,Bhoganhalli,0
+66,6th Phase JP Nagar,0
+67,Hennur Road,0
+68,Mysore Road,0
+69,CV Raman Nagar,0
+70,Garudachar Palya,0
+71,Kogilu,0
+72,Chandapura,0
+73,Indira Nagar,0
+74,Raja Rajeshwari Nagar,0
+75,Hegde Nagar,0
+76,Kereguddadahalli,0
+77,Hennur,0
+78,Kalena Agrahara,0
+79,JP Nagar,0
+80,Malleshpalya,0
+81,Kadugodi,0
+82,Kodihalli,0
+83,Kudlu,0
+84,Old Airport Road,0
+85,Hebbal Kempapura,0
+86,Mahadevpura,0
+87,Kammasandra,0
+88,Vidyaranyapura,0
+89,Anandapura,0
+90,Mahalakshmi Layout,0
+91,Malleshwaram,0
+92,Tumkur Road,0
+93,NGR Layout,0
+94,Devanahalli,0
+95,Old Madras Road,0
+96,Frazer Town,0
+97,BEML Layout,0
+98,Jalahalli,0
+99,BTM 2nd Stage,0
+100,R.T. Nagar,0
+101,Hosur Road,0
+102,Seegehalli,0
+103,Battarahalli,0
+104,Green Glen Layout,0
+105,8th Phase JP Nagar,0
+106,Yelenahalli,0
+107,Akshaya Nagar,0
+108,Kengeri Satellite Town,0
+109,Banashankari,0
+110,Thigalarapalya,0
+111,Lingadheeranahalli,0
+112,Attibele,0
+113,Jigani,0
+114,Parappana Agrahara,0
+115,Benson Town,0
+116,Laggere,0
+117,Rayasandra,0
+118,Margondanahalli,0
+119,Bannerghatta Road,0
+120,Sahakara Nagar,0
+121,Chamrajpet,0
+122,Domlur,0
+123,Bommanahalli,0
+124,Kodichikkanahalli,0
+125,Kundalahalli,0
+126,Bommenahalli,0
+127,Babusapalaya,0
+128,9th Phase JP Nagar,0
+129,Billekahalli,0
+130,Banaswadi,0
+131,Hosakerehalli,0
+132,Kadubeesanahalli,0
+133,Varthur,0
+134,Panathur,0
+135,Anekal,0
+136,Pattandur Agrahara,0
+137,Vijayanagar,0
+138,Ambedkar Nagar,0
+139,Badavala Nagar,0
+140,Ardendale,0
+141,HSR Layout,0
+142,Karuna Nagar,0
+143,Murugeshpalya,0
+144,Singasandra,0
+145,2nd Stage Nagarbhavi,0
+146,Kambipura,0
+147,Dodda Nekkundi,0
+148,Munnekollal,0
+149,Kannamangala,0
+150,Nagavarapalya,0
+151,Bannerghatta,0
+152,OMBR Layout,0
+153,Padmanabhanagar,0
+154, Devarachikkanahalli,0
+155,Somasundara Palya,0
+156,Giri Nagar,0
+157,Kudlu Gate,0
+158,Shivaji Nagar,0
+159,Banashankari Stage V,0
+160,AECS Layout,0
+161,Dasarahalli,0
+162,Dasanapura,0
+163,Kathriguppe,0
+164,NRI Layout,0
+165,1st Block Jayanagar,0
+166,TC Palaya,0
+167,Kenchenahalli,0
+168,Prithvi Layout,0
+169,Banashankari Stage VI,0
+170,Yelahanka New Town,0
+171,Binny Pete,0
+172,Bommasandra Industrial Area,0
+173,Cooke Town,0
+174,Kammanahalli,0
+175,5th Phase JP Nagar,0
+176,Bisuvanahalli,0
+177,1st Phase JP Nagar,0
+178,Shampura,0
+179,BTM Layout,0
+180,Iblur Village,0
+181,Choodasandra,0
+182,Banashankari Stage III,0
+183,EPIP Zone,0
+184,Ulsoor,0
+185,Poorna Pragna Layout,0
+186,Kaggalipura,0
+187,Sanjay nagar,0
+188,Jalahalli East,0
+189,Chikkabanavar,0
+190,Gunjur,0
+191,Amruthahalli,0
+192,Kothannur,0
+193,Nagavara,0
+194,Hoskote,0
+195,Budigere,0
+196,Thubarahalli,0
+197,Gubbalala,0
+198,Lakshminarayana Pura,0
+199,Kodigehalli,0
+200,ISRO Layout,0
+201,Nagasandra,0
+202,Jakkur,0
+203,Varthur Road,0
+204,Ambalipura,0
+205,Basavangudi,0
+206,Kalyan nagar,0
+207,Channasandra,0
+208,Balagere,0
+209,Chikka Tirupathi,0
+210,Pai Layout,0
+211,HRBR Layout,0
+212,Konanakunte,0
+213,Sonnenahalli,0
+214,Begur,0
+215,Vasanthapura,0
+216,Cunningham Road,0
+217,Sarakki Nagar,0
+218,Kodigehaali,0
+219,Narayanapura,0
+220,Arekere,0
